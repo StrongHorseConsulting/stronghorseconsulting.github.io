@@ -2,7 +2,7 @@
 title: Strong Horse Consulting
 email: tehmasp@chaudhri.me
 url: https://stronghorseconsulting.com
-description: "IT consulting specializing in Cloud Computing, Dev/Ops, Linux system administration, and Google G Suite."
+description:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,10 +14,12 @@ footer: Strong Horse Consulting
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/strong-horse-consulting-llc/
   - title: twitter
     url: https://twitter.com/stronghorsellc
-#  - title: github
-#    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: github
+    url: https://github.com/stronghorseconsulting
 
 # Build settings
 markdown: kramdown
